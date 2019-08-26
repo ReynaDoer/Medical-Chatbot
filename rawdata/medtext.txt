@@ -1,0 +1,447 @@
+Cancer is a group of diseases involving abnormal cell growth with the potential to invade or spread to other parts of the body.[2][8] These contrast with benign tumors, which do not spread.[8] Possible signs and symptoms include a lump, abnormal bleeding, prolonged cough, unexplained weight loss and a change in bowel movements.[1] While these symptoms may indicate cancer, they may have other causes.[1] Over 100 types of cancers affect humans.[8]
+
+Tobacco use is the cause of about 22% of cancer deaths.[2] Another 10% are due to obesity, poor diet, lack of physical activity or excessive drinking of alcohol.[2][9][10] Other factors include certain infections, exposure to ionizing radiation and environmental pollutants.[3] In the developing world, 15% of cancers are due to infections such as Helicobacter pylori, hepatitis B, hepatitis C, human papillomavirus infection, Epstein–Barr virus and human immunodeficiency virus (HIV).[2] These factors act, at least partly, by changing the genes of a cell.[11] Typically, many genetic changes are required before cancer develops.[11] Approximately 5–10% of cancers are due to inherited genetic defects from a person's parents.[12] Cancer can be detected by certain signs and symptoms or screening tests.[2] It is then typically further investigated by medical imaging and confirmed by biopsy.[13]
+
+Many cancers can be prevented by not smoking, maintaining a healthy weight, not drinking too much alcohol, eating plenty of vegetables, fruits and whole grains, vaccination against certain infectious diseases, not eating too much processed and red meat and avoiding too much sunlight exposure.[14][15] Early detection through screening is useful for cervical and colorectal cancer.[16] The benefits of screening in breast cancer are controversial.[16][17] Cancer is often treated with some combination of radiation therapy, surgery, chemotherapy and targeted therapy.[2][4] Pain and symptom management are an important part of care.[2] Palliative care is particularly important in people with advanced disease.[2] The chance of survival depends on the type of cancer and extent of disease at the start of treatment.[11] In children under 15 at diagnosis, the five-year survival rate in the developed world is on average 80%.[18] For cancer in the United States, the average five-year survival rate is 66%.[5]
+
+In 2015, about 90.5 million people had cancer.[6] About 14.1 million new cases occur a year (not including skin cancer other than melanoma).[11] It caused about 8.8 million deaths (15.7% of deaths).[7] The most common types of cancer in males are lung cancer, prostate cancer, colorectal cancer and stomach cancer.[19] In females, the most common types are breast cancer, colorectal cancer, lung cancer and cervical cancer.[11] If skin cancer other than melanoma were included in total new cancer cases each year, it would account for around 40% of cases.[20][21] In children, acute lymphoblastic leukemia and brain tumors are most common, except in Africa where non-Hodgkin lymphoma occurs more often.[18] In 2012, about 165,000 children under 15 years of age were diagnosed with cancer.[19] The risk of cancer increases significantly with age, and many cancers occur more commonly in developed countries.[11] Rates are increasing as more people live to an old age and as lifestyle changes occur in the developing world.[22] The financial costs of cancer were estimated at $1.16 trillion USD per year as of 2010.[23]
+Contents
+
+    1 Definitions
+    2 Signs and symptoms
+        2.1 Local symptoms
+        2.2 Systemic symptoms
+        2.3 Metastasis
+    3 Causes
+        3.1 Chemicals
+        3.2 Diet and exercise
+        3.3 Infection
+        3.4 Radiation
+        3.5 Heredity
+        3.6 Physical agents
+        3.7 Hormones
+        3.8 Autoimmune diseases
+    4 Pathophysiology
+        4.1 Genetics
+        4.2 Epigenetics
+        4.3 Metastasis
+    5 Diagnosis
+    6 Classification
+    7 Prevention
+        7.1 Dietary
+        7.2 Medication
+        7.3 Vaccination
+    8 Screening
+        8.1 Recommendations
+        8.2 Genetic testing
+    9 Management
+        9.1 Chemotherapy
+        9.2 Radiation
+        9.3 Surgery
+        9.4 Palliative care
+        9.5 Immunotherapy
+        9.6 Laser therapy
+        9.7 Alternative medicine
+    10 Prognosis
+    11 Epidemiology
+    12 History
+    13 Society and culture
+        13.1 Economic effect
+        13.2 Workplace
+    14 Research
+    15 Pregnancy
+    16 Other animals
+    17 Notes
+    18 Further reading
+    19 External links
+
+Definitions
+
+Cancers are a large family of diseases that involve abnormal cell growth with the potential to invade or spread to other parts of the body.[2][8] They form a subset of neoplasms. A neoplasm or tumor is a group of cells that have undergone unregulated growth and will often form a mass or lump, but may be distributed diffusely.[24][25]
+
+All tumor cells show the six hallmarks of cancer. These characteristics are required to produce a malignant tumor. They include:[26]
+
+    Cell growth and division absent the proper signals
+    Continuous growth and division even given contrary signals
+    Avoidance of programmed cell death
+    Limitless number of cell divisions
+    Promoting blood vessel construction
+    Invasion of tissue and formation of metastases[26]
+
+The progression from normal cells to cells that can form a detectable mass to outright cancer involves multiple steps known as malignant progression.[26][27]
+Signs and symptoms
+Main article: Cancer signs and symptoms
+Symptoms of cancer metastasis depend on the location of the tumor.
+
+When cancer begins, it produces no symptoms. Signs and symptoms appear as the mass grows or ulcerates. The findings that result depend on the cancer's type and location. Few symptoms are specific. Many frequently occur in individuals who have other conditions. Cancer is a "great imitator". Thus, it is common for people diagnosed with cancer to have been treated for other diseases, which were hypothesized to be causing their symptoms.[28]
+
+People may become anxious or depressed post-diagnosis. The risk of suicide in people with cancer is approximately double.[29]
+Local symptoms
+
+Local symptoms may occur due to the mass of the tumor or its ulceration. For example, mass effects from lung cancer can block the bronchus resulting in cough or pneumonia; esophageal cancer can cause narrowing of the esophagus, making it difficult or painful to swallow; and colorectal cancer may lead to narrowing or blockages in the bowel, affecting bowel habits. Masses in breasts or testicles may produce observable lumps. Ulceration can cause bleeding that, if it occurs in the lung, will lead to coughing up blood, in the bowels to anemia or rectal bleeding, in the bladder to blood in the urine and in the uterus to vaginal bleeding. Although localized pain may occur in advanced cancer, the initial swelling is usually painless. Some cancers can cause a buildup of fluid within the chest or abdomen.[28]
+Systemic symptoms
+
+General symptoms occur due to effects that are not related to direct or metastatic spread. These may include: unintentional weight loss, fever, excessive fatigue and changes to the skin.[30] Hodgkin disease, leukemias and cancers of the liver or kidney can cause a persistent fever.[28]
+
+Some cancers may cause specific groups of systemic symptoms, termed paraneoplastic syndrome. Examples include the appearance of myasthenia gravis in thymoma and clubbing in lung cancer.[28]
+Metastasis
+Main article: Metastasis
+
+Cancer can spread from its original site by local spread, lymphatic spread to regional lymph nodes or by hematogenous spread via the blood to distant sites, known as metastasis. When cancer spreads by a hematogenous route, it usually spreads all over the body. However, cancer 'seeds' grow in certain selected site only ('soil') as hypothesized in the soil and seed hypothesis of cancer metastasis. The symptoms of metastatic cancers depend on the tumor location and can include enlarged lymph nodes (which can be felt or sometimes seen under the skin and are typically hard), enlarged liver or enlarged spleen, which can be felt in the abdomen, pain or fracture of affected bones and neurological symptoms.[28]
+Causes
+Main article: Causes of cancer
+
+The majority of cancers, some 90–95% of cases, are due to genetic mutations from environmental and lifestyle factors.[3] The remaining 5–10% are due to inherited genetics.[3] Environmental, as used by cancer researchers, means any cause that is not inherited genetically, such as lifestyle, economic, and behavioral factors and not merely pollution.[31] Common environmental factors that contribute to cancer death include tobacco (25–30%), diet and obesity (30–35%), infections (15–20%), radiation (both ionizing and non-ionizing, up to 10%), stress, lack of physical activity and pollution.[3][32]
+
+It is not generally possible to prove what caused a particular cancer because the various causes do not have specific fingerprints. For example, if a person who uses tobacco heavily develops lung cancer, then it was probably caused by the tobacco use, but since everyone has a small chance of developing lung cancer as a result of air pollution or radiation, the cancer may have developed for one of those reasons. Excepting the rare transmissions that occur with pregnancies and occasional organ donors, cancer is generally not a transmissible disease.[33]
+Chemicals
+Further information: Alcohol and cancer and Smoking and cancer
+The incidence of lung cancer is highly correlated with smoking.
+
+Exposure to particular substances have been linked to specific types of cancer. These substances are called carcinogens.
+
+Tobacco smoke, for example, causes 90% of lung cancer.[34] It also causes cancer in the larynx, head, neck, stomach, bladder, kidney, esophagus and pancreas.[35] Tobacco smoke contains over fifty known carcinogens, including nitrosamines and polycyclic aromatic hydrocarbons.[36]
+
+Tobacco is responsible for about one in five cancer deaths worldwide[36] and about one in three in the developed world.[37] Lung cancer death rates in the United States have mirrored smoking patterns, with increases in smoking followed by dramatic increases in lung cancer death rates and, more recently, decreases in smoking rates since the 1950s followed by decreases in lung cancer death rates in men since 1990.[38][39]
+
+In Western Europe, 10% of cancers in males and 3% of cancers in females are attributed to alcohol exposure, especially liver and digestive tract cancers.[40] Cancer from work-related substance exposures may cause between 2 and 20% of cases,[41] causing at least 200,000 deaths.[42] Cancers such as lung cancer and mesothelioma can come from inhaling tobacco smoke or asbestos fibers, or leukemia from exposure to benzene.[42]
+Diet and exercise
+Main article: Diet and cancer
+
+Diet, physical inactivity and obesity are related to up to 30–35% of cancer deaths.[3][43] In the United States, excess body weight is associated with the development of many types of cancer and is a factor in 14–20% of cancer deaths.[43] A UK study including data on over 5 million people showed higher body mass index to be related to at least 10 types of cancer and responsible for around 12,000 cases each year in that country.[44] Physical inactivity is believed to contribute to cancer risk, not only through its effect on body weight but also through negative effects on the immune system and endocrine system.[43] More than half of the effect from diet is due to overnutrition (eating too much), rather than from eating too few vegetables or other healthful foods.
+
+Some specific foods are linked to specific cancers. A high-salt diet is linked to gastric cancer.[45] Aflatoxin B1, a frequent food contaminant, causes liver cancer.[45] Betel nut chewing can cause oral cancer.[45] National differences in dietary practices may partly explain differences in cancer incidence. For example, gastric cancer is more common in Japan due to its high-salt diet[46] while colon cancer is more common in the United States. Immigrant cancer profiles mirror those of their new country, often within one generation.[47]
+Infection
+Main article: Infectious causes of cancer
+
+Worldwide approximately 18% of cancer deaths are related to infectious diseases.[3] This proportion ranges from a high of 25% in Africa to less than 10% in the developed world.[3] Viruses are the usual infectious agents that cause cancer but cancer bacteria and parasites may also play a role.
+
+Oncoviruses (viruses that can cause cancer) include human papillomavirus (cervical cancer), Epstein–Barr virus (B-cell lymphoproliferative disease and nasopharyngeal carcinoma), Kaposi's sarcoma herpesvirus (Kaposi's sarcoma and primary effusion lymphomas), hepatitis B and hepatitis C viruses (hepatocellular carcinoma) and human T-cell leukemia virus-1 (T-cell leukemias). Bacterial infection may also increase the risk of cancer, as seen in Helicobacter pylori-induced gastric carcinoma.[48][49] Parasitic infections associated with cancer include Schistosoma haematobium (squamous cell carcinoma of the bladder) and the liver flukes, Opisthorchis viverrini and Clonorchis sinensis (cholangiocarcinoma).[50]
+Radiation
+Main article: Radiation-induced cancer
+
+Up to 10% of invasive cancers are related to radiation exposure, including both ionizing radiation and non-ionizing ultraviolet radiation.[3] Additionally, the majority of non-invasive cancers are non-melanoma skin cancers caused by non-ionizing ultraviolet radiation, mostly from sunlight. Sources of ionizing radiation include medical imaging and radon gas.
+
+Ionizing radiation is not a particularly strong mutagen.[51] Residential exposure to radon gas, for example, has similar cancer risks as passive smoking.[51] Radiation is a more potent source of cancer when combined with other cancer-causing agents, such as radon plus tobacco smoke.[51] Radiation can cause cancer in most parts of the body, in all animals and at any age. Children and adolescents are twice as likely to develop radiation-induced leukemia as adults; radiation exposure before birth has ten times the effect.[51]
+
+Medical use of ionizing radiation is a small but growing source of radiation-induced cancers. Ionizing radiation may be used to treat other cancers, but this may, in some cases, induce a second form of cancer.[51] It is also used in some kinds of medical imaging.[52]
+
+Prolonged exposure to ultraviolet radiation from the sun can lead to melanoma and other skin malignancies.[53] Clear evidence establishes ultraviolet radiation, especially the non-ionizing medium wave UVB, as the cause of most non-melanoma skin cancers, which are the most common forms of cancer in the world.[53]
+
+Non-ionizing radio frequency radiation from mobile phones, electric power transmission and other similar sources has been described as a possible carcinogen by the World Health Organization's International Agency for Research on Cancer.[54] However, studies have not found a consistent link between mobile phone radiation and cancer risk.[55]
+Heredity
+Main article: Cancer syndrome
+
+The vast majority of cancers are non-hereditary (sporadic). Hereditary cancers are primarily caused by an inherited genetic defect. Less than 0.3% of the population are carriers of a genetic mutation that has a large effect on cancer risk and these cause less than 3–10% of cancer.[56] Some of these syndromes include: certain inherited mutations in the genes BRCA1 and BRCA2 with a more than 75% risk of breast cancer and ovarian cancer,[56] and hereditary nonpolyposis colorectal cancer (HNPCC or Lynch syndrome), which is present in about 3% of people with colorectal cancer,[57] among others.
+
+Statistically for cancers causing most mortality, the relative risk of developing colorectal cancer when a first-degree relative (parent, sibling or child) has been diagnosed with it is about 2.[58] The corresponding relative risk is 1.5 for lung cancer,[59] and 1.9 for prostate cancer.[60] For breast cancer, the relative risk is 1.8 with a first-degree relative having developed it at 50 years of age or older, and 3.3 when the relative developed it when being younger than 50 years of age.[61]
+
+Taller people have an increased risk of cancer because they have more cells than shorter people. Since height is genetically determined to a large extent, taller people have a heritable increase of cancer risk.[62]
+Physical agents
+
+Some substances cause cancer primarily through their physical, rather than chemical, effects.[63] A prominent example of this is prolonged exposure to asbestos, naturally occurring mineral fibers that are a major cause of mesothelioma (cancer of the serous membrane) usually the serous membrane surrounding the lungs.[63] Other substances in this category, including both naturally occurring and synthetic asbestos-like fibers, such as wollastonite, attapulgite, glass wool and rock wool, are believed to have similar effects.[63] Non-fibrous particulate materials that cause cancer include powdered metallic cobalt and nickel and crystalline silica (quartz, cristobalite and tridymite).[63] Usually, physical carcinogens must get inside the body (such as through inhalation) and require years of exposure to produce cancer.[63]
+
+Physical trauma resulting in cancer is relatively rare.[64] Claims that breaking bones resulted in bone cancer, for example, have not been proven.[64] Similarly, physical trauma is not accepted as a cause for cervical cancer, breast cancer or brain cancer.[64] One accepted source is frequent, long-term application of hot objects to the body. It is possible that repeated burns on the same part of the body, such as those produced by kanger and kairo heaters (charcoal hand warmers), may produce skin cancer, especially if carcinogenic chemicals are also present.[64] Frequent consumption of scalding hot tea may produce esophageal cancer.[64] Generally, it is believed that cancer arises, or a pre-existing cancer is encouraged, during the process of healing, rather than directly by the trauma.[64] However, repeated injuries to the same tissues might promote excessive cell proliferation, which could then increase the odds of a cancerous mutation.
+
+Chronic inflammation has been hypothesized to directly cause mutation.[64][65] Inflammation can contribute to proliferation, survival, angiogenesis and migration of cancer cells by influencing the tumor microenvironment.[66][67] Oncogenes build up an inflammatory pro-tumorigenic microenvironment.[68]
+Hormones
+
+Some hormones play a role in the development of cancer by promoting cell proliferation.[69] Insulin-like growth factors and their binding proteins play a key role in cancer cell proliferation, differentiation and apoptosis, suggesting possible involvement in carcinogenesis.[70]
+
+Hormones are important agents in sex-related cancers, such as cancer of the breast, endometrium, prostate, ovary and testis and also of thyroid cancer and bone cancer.[69] For example, the daughters of women who have breast cancer have significantly higher levels of estrogen and progesterone than the daughters of women without breast cancer. These higher hormone levels may explain their higher risk of breast cancer, even in the absence of a breast-cancer gene.[69] Similarly, men of African ancestry have significantly higher levels of testosterone than men of European ancestry and have a correspondingly higher level of prostate cancer.[69] Men of Asian ancestry, with the lowest levels of testosterone-activating androstanediol glucuronide, have the lowest levels of prostate cancer.[69]
+
+Other factors are relevant: obese people have higher levels of some hormones associated with cancer and a higher rate of those cancers.[69] Women who take hormone replacement therapy have a higher risk of developing cancers associated with those hormones.[69] On the other hand, people who exercise far more than average have lower levels of these hormones and lower risk of cancer.[69] Osteosarcoma may be promoted by growth hormones.[69] Some treatments and prevention approaches leverage this cause by artificially reducing hormone levels and thus discouraging hormone-sensitive cancers.[69]
+Autoimmune diseases
+
+There is an association between celiac disease and an increased risk of all cancers. People with untreated celiac disease have a higher risk, but this risk decreases with time after diagnosis and strict treatment, probably due to the adoption of a gluten-free diet, which seems to have a protective role against development of malignancy in people with celiac disease. However, the delay in diagnosis and initiation of a gluten-free diet seems to increase the risk of malignancies.[71] Rates of gastrointestinal cancers are increased in people with Crohn's disease and ulcerative colitis, due to chronic inflammation. Also, immunomodulators and biologic agents used to treat these diseases may promote developing extra-intestinal malignancies.[72]
+Pathophysiology
+Main article: Carcinogenesis
+Cancers are caused by a series of mutations. Each mutation alters the behavior of the cell somewhat.
+Genetics
+Main article: Oncogenomics
+
+Cancer is fundamentally a disease of tissue growth regulation. In order for a normal cell to transform into a cancer cell, the genes that regulate cell growth and differentiation must be altered.[73]
+
+The affected genes are divided into two broad categories. Oncogenes are genes that promote cell growth and reproduction. Tumor suppressor genes are genes that inhibit cell division and survival. Malignant transformation can occur through the formation of novel oncogenes, the inappropriate over-expression of normal oncogenes, or by the under-expression or disabling of tumor suppressor genes. Typically, changes in multiple genes are required to transform a normal cell into a cancer cell.[74]
+
+Genetic changes can occur at different levels and by different mechanisms. The gain or loss of an entire chromosome can occur through errors in mitosis. More common are mutations, which are changes in the nucleotide sequence of genomic DNA.
+
+Large-scale mutations involve the deletion or gain of a portion of a chromosome. Genomic amplification occurs when a cell gains copies (often 20 or more) of a small chromosomal locus, usually containing one or more oncogenes and adjacent genetic material. Translocation occurs when two separate chromosomal regions become abnormally fused, often at a characteristic location. A well-known example of this is the Philadelphia chromosome, or translocation of chromosomes 9 and 22, which occurs in chronic myelogenous leukemia and results in production of the BCR-abl fusion protein, an oncogenic tyrosine kinase.
+
+Small-scale mutations include point mutations, deletions, and insertions, which may occur in the promoter region of a gene and affect its expression, or may occur in the gene's coding sequence and alter the function or stability of its protein product. Disruption of a single gene may also result from integration of genomic material from a DNA virus or retrovirus, leading to the expression of viral oncogenes in the affected cell and its descendants.
+
+Replication of the data contained within the DNA of living cells will probabilistically result in some errors (mutations). Complex error correction and prevention is built into the process and safeguards the cell against cancer. If a significant error occurs, the damaged cell can self-destruct through programmed cell death, termed apoptosis. If the error control processes fail, then the mutations will survive and be passed along to daughter cells.
+
+Some environments make errors more likely to arise and propagate. Such environments can include the presence of disruptive substances called carcinogens, repeated physical injury, heat, ionising radiation or hypoxia.[75]
+
+The errors that cause cancer are self-amplifying and compounding, for example:
+
+    A mutation in the error-correcting machinery of a cell might cause that cell and its children to accumulate errors more rapidly.
+    A further mutation in an oncogene might cause the cell to reproduce more rapidly and more frequently than its normal counterparts.
+    A further mutation may cause loss of a tumor suppressor gene, disrupting the apoptosis signaling pathway and immortalizing the cell.
+    A further mutation in the signaling machinery of the cell might send error-causing signals to nearby cells.
+
+The transformation of a normal cell into cancer is akin to a chain reaction caused by initial errors, which compound into more severe errors, each progressively allowing the cell to escape more controls that limit normal tissue growth. This rebellion-like scenario is an undesirable survival of the fittest, where the driving forces of evolution work against the body's design and enforcement of order. Once cancer has begun to develop, this ongoing process, termed clonal evolution, drives progression towards more invasive stages.[76] Clonal evolution leads to intra-tumour heterogeneity (cancer cells with heterogeneous mutations) that complicates designing effective treatment strategies.
+
+Characteristic abilities developed by cancers are divided into categories, specifically evasion of apoptosis, self-sufficiency in growth signals, insensitivity to anti-growth signals, sustained angiogenesis, limitless replicative potential, metastasis, reprogramming of energy metabolism and evasion of immune destruction.[26][27]
+Epigenetics
+Main article: Cancer epigenetics
+The central role of DNA damage and epigenetic defects in DNA repair genes in carcinogenesis
+
+The classical view of cancer is a set of diseases that are driven by progressive genetic abnormalities that include mutations in tumor-suppressor genes and oncogenes and chromosomal abnormalities. Later epigenetic alterations' role was identified.[77]
+
+Epigenetic alterations are functionally relevant modifications to the genome that do not change the nucleotide sequence. Examples of such modifications are changes in DNA methylation (hypermethylation and hypomethylation), histone modification[78] and changes in chromosomal architecture (caused by inappropriate expression of proteins such as HMGA2 or HMGA1).[79] Each of these alterations regulates gene expression without altering the underlying DNA sequence. These changes may remain through cell divisions, last for multiple generations and can be considered to be epimutations (equivalent to mutations).
+
+Epigenetic alterations occur frequently in cancers. As an example, one study listed protein coding genes that were frequently altered in their methylation in association with colon cancer. These included 147 hypermethylated and 27 hypomethylated genes. Of the hypermethylated genes, 10 were hypermethylated in 100% of colon cancers and many others were hypermethylated in more than 50% of colon cancers.[80]
+
+While epigenetic alterations are found in cancers, the epigenetic alterations in DNA repair genes, causing reduced expression of DNA repair proteins, may be of particular importance. Such alterations are thought to occur early in progression to cancer and to be a likely cause of the genetic instability characteristic of cancers.[81][82][83][84]
+
+Reduced expression of DNA repair genes disrupts DNA repair. This is shown in the figure at the 4th level from the top. (In the figure, red wording indicates the central role of DNA damage and defects in DNA repair in progression to cancer.) When DNA repair is deficient DNA damage remains in cells at a higher than usual level (5th level) and cause increased frequencies of mutation and/or epimutation (6th level). Mutation rates increase substantially in cells defective in DNA mismatch repair[85][86] or in homologous recombinational repair (HRR).[87] Chromosomal rearrangements and aneuploidy also increase in HRR defective cells.[88]
+
+Higher levels of DNA damage cause increased mutation (right side of figure) and increased epimutation. During repair of DNA double strand breaks, or repair of other DNA damage, incompletely cleared repair sites can cause epigenetic gene silencing.[89][90]
+
+Deficient expression of DNA repair proteins due to an inherited mutation can increase cancer risks. Individuals with an inherited impairment in any of 34 DNA repair genes (see article DNA repair-deficiency disorder) have increased cancer risk, with some defects ensuring a 100% lifetime chance of cancer (e.g. p53 mutations).[91] Germ line DNA repair mutations are noted on the figure's left side. However, such germline mutations (which cause highly penetrant cancer syndromes) are the cause of only about 1 percent of cancers.[92]
+
+In sporadic cancers, deficiencies in DNA repair are occasionally caused by a mutation in a DNA repair gene but are much more frequently caused by epigenetic alterations that reduce or silence expression of DNA repair genes. This is indicated in the figure at the 3rd level. Many studies of heavy metal-induced carcinogenesis show that such heavy metals cause a reduction in expression of DNA repair enzymes, some through epigenetic mechanisms. DNA repair inhibition is proposed to be a predominant mechanism in heavy metal-induced carcinogenicity. In addition, frequent epigenetic alterations of the DNA sequences code for small RNAs called microRNAs (or miRNAs). miRNAs do not code for proteins, but can "target" protein-coding genes and reduce their expression.
+
+Cancers usually arise from an assemblage of mutations and epimutations that confer a selective advantage leading to clonal expansion (see Field defects in progression to cancer). Mutations, however, may not be as frequent in cancers as epigenetic alterations. An average cancer of the breast or colon can have about 60 to 70 protein-altering mutations, of which about three or four may be "driver" mutations and the remaining ones may be "passenger" mutations.[93]
+Metastasis
+Main article: Metastasis
+
+Metastasis is the spread of cancer to other locations in the body. The dispersed tumors are called metastatic tumors, while the original is called the primary tumor. Almost all cancers can metastasize.[94] Most cancer deaths are due to cancer that has metastasized.[95]
+
+Metastasis is common in the late stages of cancer and it can occur via the blood or the lymphatic system or both. The typical steps in metastasis are local invasion, intravasation into the blood or lymph, circulation through the body, extravasation into the new tissue, proliferation and angiogenesis. Different types of cancers tend to metastasize to particular organs, but overall the most common places for metastases to occur are the lungs, liver, brain and the bones.[94]
+Diagnosis
+Chest x-ray showing lung cancer in the left lung
+
+Most cancers are initially recognized either because of the appearance of signs or symptoms or through screening. Neither of these leads to a definitive diagnosis, which requires the examination of a tissue sample by a pathologist. People with suspected cancer are investigated with medical tests. These commonly include blood tests, X-rays, (contrast) CT scans and endoscopy.
+
+The tissue diagnosis from the biopsy indicates the type of cell that is proliferating, its histological grade, genetic abnormalities and other features. Together, this information is useful to evaluate the prognosis and to choose the best treatment.
+
+Cytogenetics and immunohistochemistry are other types of tissue tests. These tests provide information about molecular changes (such as mutations, fusion genes and numerical chromosome changes) and may thus also indicate the prognosis and best treatment.
+Classification
+Further information: List of cancer types and List of oncology-related terms
+
+Cancers are classified by the type of cell that the tumor cells resemble and is therefore presumed to be the origin of the tumor. These types include:
+
+    Carcinoma: Cancers derived from epithelial cells. This group includes many of the most common cancers and include nearly all those in the breast, prostate, lung, pancreas and colon.
+    Sarcoma: Cancers arising from connective tissue (i.e. bone, cartilage, fat, nerve), each of which develops from cells originating in mesenchymal cells outside the bone marrow.
+    Lymphoma and leukemia: These two classes arise from hematopoietic (blood-forming) cells that leave the marrow and tend to mature in the lymph nodes and blood, respectively.[96]
+    Germ cell tumor: Cancers derived from pluripotent cells, most often presenting in the testicle or the ovary (seminoma and dysgerminoma, respectively).
+    Blastoma: Cancers derived from immature "precursor" cells or embryonic tissue.
+
+Cancers are usually named using -carcinoma, -sarcoma or -blastoma as a suffix, with the Latin or Greek word for the organ or tissue of origin as the root. For example, cancers of the liver parenchyma arising from malignant epithelial cells is called hepatocarcinoma, while a malignancy arising from primitive liver precursor cells is called a hepatoblastoma and a cancer arising from fat cells is called a liposarcoma. For some common cancers, the English organ name is used. For example, the most common type of breast cancer is called ductal carcinoma of the breast. Here, the adjective ductal refers to the appearance of cancer under the microscope, which suggests that it has originated in the milk ducts.
+
+Benign tumors (which are not cancers) are named using -oma as a suffix with the organ name as the root. For example, a benign tumor of smooth muscle cells is called a leiomyoma (the common name of this frequently occurring benign tumor in the uterus is fibroid). Confusingly, some types of cancer use the -noma suffix, examples including melanoma and seminoma.
+
+Some types of cancer are named for the size and shape of the cells under a microscope, such as giant cell carcinoma, spindle cell carcinoma and small-cell carcinoma.
+
+    An invasive ductal carcinoma of the breast (pale area at the center) surrounded by spikes of whitish scar tissue and yellow fatty tissue
+
+    An invasive colorectal carcinoma (top center) in a colectomy specimen
+
+    A squamous-cell carcinoma (the whitish tumor) near the bronchi in a lung specimen
+
+    A large invasive ductal carcinoma in a mastectomy specimen
+
+Prevention
+Main article: Cancer prevention
+
+Cancer prevention is defined as active measures to decrease cancer risk.[97] The vast majority of cancer cases are due to environmental risk factors. Many of these environmental factors are controllable lifestyle choices. Thus, cancer is generally preventable.[98] Between 70% and 90% of common cancers are due to environmental factors and therefore potentially preventable.[99]
+
+Greater than 30% of cancer deaths could be prevented by avoiding risk factors including: tobacco, excess weight/obesity, poor diet, physical inactivity, alcohol, sexually transmitted infections and air pollution.[100] Not all environmental causes are controllable, such as naturally occurring background radiation and cancers caused through hereditary genetic disorders and thus are not preventable via personal behavior.
+Dietary
+Main article: Diet and cancer
+
+While many dietary recommendations have been proposed to reduce cancer risks, the evidence to support them is not definitive.[14][101] The primary dietary factors that increase risk are obesity and alcohol consumption. Diets low in fruits and vegetables and high in red meat have been implicated but reviews and meta-analyses do not come to a consistent conclusion.[102][103] A 2014 meta-analysis find no relationship between fruits and vegetables and cancer.[104] Coffee is associated with a reduced risk of liver cancer.[105] Studies have linked excess consumption of red or processed meat to an increased risk of breast cancer, colon cancer and pancreatic cancer, a phenomenon that could be due to the presence of carcinogens in meats cooked at high temperatures.[106][107] In 2015 the IARC reported that eating processed meat (e.g., bacon, ham, hot dogs, sausages) and, to a lesser degree, red meat was linked to some cancers.[108][109]
+
+Dietary recommendations for cancer prevention typically include an emphasis on vegetables, fruit, whole grains and fish and an avoidance of processed and red meat (beef, pork, lamb), animal fats, pickled foods and refined carbohydrates.[14][101]
+Medication
+
+Medications can be used to prevent cancer in a few circumstances.[110] In the general population, NSAIDs reduce the risk of colorectal cancer; however, due to cardiovascular and gastrointestinal side effects, they cause overall harm when used for prevention.[111] Aspirin has been found to reduce the risk of death from cancer by about 7%.[112] COX-2 inhibitors may decrease the rate of polyp formation in people with familial adenomatous polyposis; however, it is associated with the same adverse effects as NSAIDs.[113] Daily use of tamoxifen or raloxifene reduce the risk of breast cancer in high-risk women.[114] The benefit versus harm for 5-alpha-reductase inhibitor such as finasteride is not clear.[115]
+
+Vitamin supplementation does not appear to be effective at preventing cancer.[116] While low blood levels of vitamin D are correlated with increased cancer risk,[117][118][119] whether this relationship is causal and vitamin D supplementation is protective is not determined.[120][121] One 2014 review found that supplements had no significant effect on cancer risk.[121] Another 2014 review concluded that vitamin D3 may decrease the risk of death from cancer (one fewer death in 150 people treated over 5 years), but concerns with the quality of the data were noted.[122]
+
+Beta-carotene supplementation increases lung cancer rates in those who are high risk.[123] Folic acid supplementation is not effective in preventing colon cancer and may increase colon polyps.[124] It is unclear if selenium supplementation has an effect.[125][needs update]
+Vaccination
+
+Vaccines have been developed that prevent infection by some carcinogenic viruses.[126] Human papillomavirus vaccine (Gardasil and Cervarix) decrease the risk of developing cervical cancer.[126] The hepatitis B vaccine prevents infection with hepatitis B virus and thus decreases the risk of liver cancer.[126] The administration of human papillomavirus and hepatitis B vaccinations is recommended when resources allow.[127]
+Screening
+Main article: Cancer screening
+
+Unlike diagnostic efforts prompted by symptoms and medical signs, cancer screening involves efforts to detect cancer after it has formed, but before any noticeable symptoms appear.[128] This may involve physical examination, blood or urine tests or medical imaging.[128]
+
+Cancer screening is not available for many types of cancers. Even when tests are available, they may not be recommended for everyone. Universal screening or mass screening involves screening everyone.[129] Selective screening identifies people who are at higher risk, such as people with a family history.[129] Several factors are considered to determine whether the benefits of screening outweigh the risks and the costs of screening.[128] These factors include:
+
+    Possible harms from the screening test: for example, X-ray images involve exposure to potentially harmful ionizing radiation
+    The likelihood of the test correctly identifying cancer
+    The likelihood that cancer is present: Screening is not normally useful for rare cancers.
+    Possible harms from follow-up procedures
+    Whether suitable treatment is available
+    Whether early detection improves treatment outcomes
+    Whether the cancer will ever need treatment
+    Whether the test is acceptable to the people: If a screening test is too burdensome (for example, extremely painful), then people will refuse to participate.[129]
+    Cost
+
+Recommendations
+U.S. Preventive Services Task Force
+
+The U.S. Preventive Services Task Force (USPSTF) issues recommendations for various cancers:
+
+    Strongly recommends cervical cancer screening in women who are sexually active and have a cervix at least until the age of 65.[130]
+    Recommend that Americans be screened for colorectal cancer via fecal occult blood testing, sigmoidoscopy, or colonoscopy starting at age 50 until age 75.[131]
+    Evidence is insufficient to recommend for or against screening for skin cancer,[132] oral cancer,[133] lung cancer,[134] or prostate cancer in men under 75.[135]
+    Routine screening is not recommended for bladder cancer,[136] testicular cancer,[137] ovarian cancer,[138] pancreatic cancer,[139] or prostate cancer.[140]
+    Recommends mammography for breast cancer screening every two years from ages 50–74, but does not recommend either breast self-examination or clinical breast examination.[141] A 2013 Cochrane review concluded that breast cancer screening by mammography had no effect in reducing mortality because of overdiagnosis and overtreatment.[142]
+
+Japan
+
+Screens for gastric cancer using photofluorography due to the high incidence there.[22]
+Genetic testing
+See also: Cancer syndrome
+Gene 	Cancer types
+BRCA1, BRCA2 	Breast, ovarian, pancreatic
+HNPCC, MLH1, MSH2, MSH6, PMS1, PMS2 	Colon, uterine, small bowel, stomach, urinary tract
+
+Genetic testing for individuals at high-risk of certain cancers is recommended by unofficial groups.[127][143] Carriers of these mutations may then undergo enhanced surveillance, chemoprevention, or preventative surgery to reduce their subsequent risk.[143]
+Management
+Main articles: Management of cancer and oncology
+
+Many treatment options for cancer exist. The primary ones include surgery, chemotherapy, radiation therapy, hormonal therapy, targeted therapy and palliative care. Which treatments are used depends on the type, location and grade of the cancer as well as the patient's health and preferences. The treatment intent may or may not be curative.
+Chemotherapy
+
+Chemotherapy is the treatment of cancer with one or more cytotoxic anti-neoplastic drugs (chemotherapeutic agents) as part of a standardized regimen. The term encompasses a variety of drugs, which are divided into broad categories such as alkylating agents and antimetabolites.[144] Traditional chemotherapeutic agents act by killing cells that divide rapidly, a critical property of most cancer cells.
+
+Targeted therapy is a form of chemotherapy that targets specific molecular differences between cancer and normal cells. The first targeted therapies blocked the estrogen receptor molecule, inhibiting the growth of breast cancer. Another common example is the class of Bcr-Abl inhibitors, which are used to treat chronic myelogenous leukemia (CML).[4] Currently, targeted therapies exist for many of the most common cancer types, including bladder cancer, breast cancer, colorectal cancer, kidney cancer, leukemia, liver cancer, lung cancer, lymphoma, pancreatic cancer, prostate cancer, skin cancer, and thyroid cancer as well as other cancer types.[145]
+
+The efficacy of chemotherapy depends on the type of cancer and the stage. In combination with surgery, chemotherapy has proven useful in cancer types including breast cancer, colorectal cancer, pancreatic cancer, osteogenic sarcoma, testicular cancer, ovarian cancer and certain lung cancers.[146] Chemotherapy is curative for some cancers, such as some leukemias,[147][148] ineffective in some brain tumors,[149] and needless in others, such as most non-melanoma skin cancers.[150] The effectiveness of chemotherapy is often limited by its toxicity to other tissues in the body. Even when chemotherapy does not provide a permanent cure, it may be useful to reduce symptoms such as pain or to reduce the size of an inoperable tumor in the hope that surgery will become possible in the future.
+Radiation
+
+Radiation therapy involves the use of ionizing radiation in an attempt to either cure or improve symptoms. It works by damaging the DNA of cancerous tissue, killing it. To spare normal tissues (such as skin or organs, which radiation must pass through to treat the tumor), shaped radiation beams are aimed from multiple exposure angles to intersect at the tumor, providing a much larger dose there than in the surrounding, healthy tissue. As with chemotherapy, cancers vary in their response to radiation therapy.[151][152][153]
+
+Radiation therapy is used in about half of cases. The radiation can be either from internal sources (brachytherapy) or external sources. The radiation is most commonly low energy x-rays for treating skin cancers, while higher energy x-rays are used for cancers within the body.[154] Radiation is typically used in addition to surgery and or chemotherapy. For certain types of cancer, such as early head and neck cancer, it may be used alone.[155] For painful bone metastasis, it has been found to be effective in about 70% of patients.[155]
+Surgery
+
+Surgery is the primary method of treatment for most isolated, solid cancers and may play a role in palliation and prolongation of survival. It is typically an important part of definitive diagnosis and staging of tumors, as biopsies are usually required. In localized cancer, surgery typically attempts to remove the entire mass along with, in certain cases, the lymph nodes in the area. For some types of cancer this is sufficient to eliminate the cancer.[146]
+Palliative care
+
+Palliative care is treatment that attempts to help the patient feel better and may be combined with an attempt to treat the cancer. Palliative care includes action to reduce physical, emotional, spiritual and psycho-social distress. Unlike treatment that is aimed at directly killing cancer cells, the primary goal of palliative care is to improve quality of life.
+
+People at all stages of cancer treatment typically receive some kind of palliative care. In some cases, medical specialty professional organizations recommend that patients and physicians respond to cancer only with palliative care.[156] This applies to patients who:[157]
+
+    display low performance status, implying limited ability to care for themselves[156]
+    received no benefit from prior evidence-based treatments[156]
+    are not eligible to participate in any appropriate clinical trial[156]
+    no strong evidence implies that treatment would be effective[156]
+
+Palliative care may be confused with hospice and therefore only indicated when people approach end of life. Like hospice care, palliative care attempts to help the patient cope with their immediate needs and to increase comfort. Unlike hospice care, palliative care does not require people to stop treatment aimed at the cancer.
+
+Multiple national medical guidelines recommend early palliative care for patients whose cancer has produced distressing symptoms or who need help coping with their illness. In patients first diagnosed with metastatic disease, palliative care may be immediately indicated. Palliative care is indicated for patients with a prognosis of less than 12 months of life even given aggressive treatment.[158][159][160]
+Immunotherapy
+Main article: Cancer immunotherapy
+
+A variety of therapies using immunotherapy, stimulating or helping the immune system to fight cancer, have come into use since 1997. Approaches include antibodies, checkpoint therapy and adoptive cell transfer.[161]
+Laser therapy
+Main article: Lasers in cancer treatment
+
+Laser therapy uses high-intensity light to treat cancer by shrinking or destroying tumors or precancerous growths. Lasers are most commonly used to treat superficial cancers that are on the surface of the body or the lining of internal organs. It is used to treat basal cell skin cancer and the very early stages of others like cervical, penile, vaginal, vulvar, and non-small cell lung cancer. It is often combined with other treatments, such as surgery, chemotherapy, or radiation therapy. Laser-induced interstitial thermotherapy (LITT), or interstitial laser photocoagulation, uses lasers to treat some cancers using hyperthermia, which uses heat to shrink tumors by damaging or killing cancer cells. Laser are more precise than surgery and cause less damage, pain, bleeding, swelling, and scarring. A disadvantage is surgeons must have specialized training. It may be more expensive than other treatments.[162]
+Alternative medicine
+
+Complementary and alternative cancer treatments are a diverse group of therapies, practices and products that are not part of conventional medicine.[163] "Complementary medicine" refers to methods and substances used along with conventional medicine, while "alternative medicine" refers to compounds used instead of conventional medicine.[164] Most complementary and alternative medicines for cancer have not been studied or tested using conventional techniques such as clinical trials. Some alternative treatments have been investigated and shown to be ineffective but still continue to be marketed and promoted. Cancer researcher Andrew J. Vickers stated, "The label 'unproven' is inappropriate for such therapies; it is time to assert that many alternative cancer therapies have been 'disproven'."[165]
+Prognosis
+See also: Cancer survival rates, List of cancer mortality rates in the United States, and Cancer survivor
+
+Survival rates vary by cancer type and by the stage at which it is diagnosed, ranging from majority survival to complete mortality five years after diagnosis. Once a cancer has metastasized, prognosis normally becomes much worse. About half of patients receiving treatment for invasive cancer (excluding carcinoma in situ and non-melanoma skin cancers) die from that cancer or its treatment.[22]
+
+Survival is worse in the developing world,[22] partly because the types of cancer that are most common there are harder to treat than those associated with developed countries.[166]
+
+Those who survive cancer develop a second primary cancer at about twice the rate of those never diagnosed.[167] The increased risk is believed to be due to the random chance of developing any cancer, the likelihood of surviving the first cancer, the same risk factors that produced the first cancer, unwanted side effects of treating the first cancer (particularly radiation therapy), and to better compliance with screening.[167]
+
+Predicting short- or long-term survival depends on many factors. The most important are the cancer type and the patient's age and overall health. Those who are frail with other health problems have lower survival rates than otherwise healthy people. Centenarians are unlikely to survive for five years even if treatment is successful. People who report a higher quality of life tend to survive longer.[168] People with lower quality of life may be affected by depression and other complications and/or disease progression that both impairs quality and quantity of life. Additionally, patients with worse prognoses may be depressed or report poorer quality of life because they perceive that their condition is likely to be fatal.
+
+Cancer patients have an increased risk of blood clots in veins. The use of heparin appears to improve survival and decrease the risk of blood clots.[169][needs update]
+Epidemiology
+Main article: Epidemiology of cancer
+See also: List of countries by cancer rate
+Death from cancer per million persons in 2012
+  135–367
+  368–443
+  444–521
+  522–588
+  589–736
+  737–968
+  969–1,567
+  1,568–2,085
+  2,086–2,567
+  2,568–3,320
+
+Estimates are that in 2018, 18.1 million new cases of cancer and 9.6 million deaths occur globally.[170] About 20% of males and 17% of females will get cancer at some point in time while 13% of males and 9% of females will die from it.[170]
+
+In 2008, approximately 12.7 million cancers were diagnosed (excluding non-melanoma skin cancers and other non-invasive cancers)[22] and in 2010 nearly 7.98 million people died.[171] Cancers account for approximately 16% of deaths. The most common as of 2018 are lung cancer (1.76 million deaths), colorectal cancer (860,000) stomach cancer (780,000), liver cancer (780,000), and breast cancer (620,000).[2] This makes invasive cancer the leading cause of death in the developed world and the second leading in the developing world.[22] Over half of cases occur in the developing world.[22]
+
+Deaths from cancer were 5.8 million in 1990.[171] Deaths have been increasing primarily due to longer lifespans and lifestyle changes in the developing world.[22] The most significant risk factor for developing cancer is age.[172] Although it is possible for cancer to strike at any age, most patients with invasive cancer are over 65.[172] According to cancer researcher Robert A. Weinberg, "If we lived long enough, sooner or later we all would get cancer."[173] Some of the association between aging and cancer is attributed to immunosenescence,[174] errors accumulated in DNA over a lifetime[175] and age-related changes in the endocrine system.[176] Aging's effect on cancer is complicated by factors such as DNA damage and inflammation promoting it and factors such as vascular aging and endocrine changes inhibiting it.[177]
+
+Some slow-growing cancers are particularly common, but often are not fatal. Autopsy studies in Europe and Asia showed that up to 36% of people have undiagnosed and apparently harmless thyroid cancer at the time of their deaths and that 80% of men develop prostate cancer by age 80.[178][179] As these cancers do not cause the patient's death, identifying them would have represented overdiagnosis rather than useful medical care.
+
+The three most common childhood cancers are leukemia (34%), brain tumors (23%) and lymphomas (12%).[180] In the United States cancer affects about 1 in 285 children.[181] Rates of childhood cancer increased by 0.6% per year between 1975 and 2002 in the United States[182] and by 1.1% per year between 1978 and 1997 in Europe.[180] Death from childhood cancer decreased by half between 1975 and 2010 in the United States.[181]
+History
+Main article: History of cancer
+Engraving with two views of a Dutch woman who had a tumor removed from her neck in 1689
+
+Cancer has existed for all of human history.[183] The earliest written record regarding cancer is from circa 1600 BC in the Egyptian Edwin Smith Papyrus and describes breast cancer.[183] Hippocrates (c. 460 BC – c. 370 BC) described several kinds of cancer, referring to them with the Greek word καρκίνος karkinos (crab or crayfish).[183] This name comes from the appearance of the cut surface of a solid malignant tumor, with "the veins stretched on all sides as the animal the crab has its feet, whence it derives its name".[184] Galen stated that "cancer of the breast is so called because of the fancied resemblance to a crab given by the lateral prolongations of the tumor and the adjacent distended veins".[185]:738 Celsus (c. 25 BC – 50 AD) translated karkinos into the Latin cancer, also meaning crab and recommended surgery as treatment.[183] Galen (2nd century AD) disagreed with the use of surgery and recommended purgatives instead.[183] These recommendations largely stood for 1000 years.[183]
+
+In the 15th, 16th and 17th centuries, it became acceptable for doctors to dissect bodies to discover the cause of death.[186] The German professor Wilhelm Fabry believed that breast cancer was caused by a milk clot in a mammary duct. The Dutch professor Francois de la Boe Sylvius, a follower of Descartes, believed that all disease was the outcome of chemical processes and that acidic lymph fluid was the cause of cancer. His contemporary Nicolaes Tulp believed that cancer was a poison that slowly spreads and concluded that it was contagious.[187]
+
+The physician John Hill described tobacco snuff as the cause of nose cancer in 1761.[186] This was followed by the report in 1775 by British surgeon Percivall Pott that chimney sweeps' carcinoma, a cancer of the scrotum, was a common disease among chimney sweeps.[188] With the widespread use of the microscope in the 18th century, it was discovered that the 'cancer poison' spread from the primary tumor through the lymph nodes to other sites ("metastasis"). This view of the disease was first formulated by the English surgeon Campbell De Morgan between 1871 and 1874.[189]
+Society and culture
+
+Although many diseases (such as heart failure) may have a worse prognosis than most cases of cancer, cancer is the subject of widespread fear and taboos. The euphemism of "a long illness" to describe cancers leading to death is still commonly used in obituaries, rather than naming the disease explicitly, reflecting an apparent stigma.[190] In Nigeria, one local name for cancer translates into English as "the disease that cannot be cured".[191] This deep belief that cancer is necessarily a difficult and usually deadly disease is reflected in the systems chosen by society to compile cancer statistics: the most common form of cancer—non-melanoma skin cancers, accounting for about one-third of cancer cases worldwide, but very few deaths[192][193]—are excluded from cancer statistics specifically because they are easily treated and almost always cured, often in a single, short, outpatient procedure.[194]
+
+Western conceptions of patients' rights for people with cancer include a duty to fully disclose the medical situation to the person, and the right to engage in shared decision-making in a way that respects the person's own values. In other cultures, other rights and values are preferred. For example, most African cultures value whole families rather than individualism. In parts of Africa, a diagnosis is commonly made so late that cure is not possible, and treatment, if available at all, would quickly bankrupt the family. As a result of these factors, African healthcare providers tend to let family members decide whether, when and how to disclose the diagnosis, and they tend to do so slowly and circuitously, as the person shows interest and an ability to cope with the grim news.[191] People from Asian and South American countries also tend to prefer a slower, less candid approach to disclosure than is idealized in the United States and Western Europe, and they believe that sometimes it would be preferable not to be told about a cancer diagnosis.[191] In general, disclosure of the diagnosis is more common than it was in the 20th century, but full disclosure of the prognosis is not offered to many patients around the world.[191]
+
+In the United States and some other cultures, cancer is regarded as a disease that must be "fought" to end the "civil insurrection"; a War on Cancer was declared in the US. Military metaphors are particularly common in descriptions of cancer's human effects, and they emphasize both the state of the patient's health and the need to take immediate, decisive actions himself rather than to delay, to ignore or to rely entirely on others. The military metaphors also help rationalize radical, destructive treatments.[195][196]
+
+In the 1970s, a relatively popular alternative cancer treatment in the US was a specialized form of talk therapy, based on the idea that cancer was caused by a bad attitude.[197] People with a "cancer personality"—depressed, repressed, self-loathing and afraid to express their emotions—were believed to have manifested cancer through subconscious desire. Some psychotherapists said that treatment to change the patient's outlook on life would cure the cancer.[197] Among other effects, this belief allowed society to blame the victim for having caused the cancer (by "wanting" it) or having prevented its cure (by not becoming a sufficiently happy, fearless and loving person).[198] It also increased patients' anxiety, as they incorrectly believed that natural emotions of sadness, anger or fear shorten their lives.[198] The idea was ridiculed by Susan Sontag, who published Illness as Metaphor while recovering from treatment for breast cancer in 1978.[197] Although the original idea is now generally regarded as nonsense, the idea partly persists in a reduced form with a widespread, but incorrect, belief that deliberately cultivating a habit of positive thinking will increase survival.[198] This notion is particularly strong in breast cancer culture.[198]
+
+One idea about why people with cancer are blamed or stigmatized, called the just-world hypothesis, is that blaming cancer on the patient's actions or attitudes allows the blamers to regain a sense of control. This is based upon the blamers' belief that the world is fundamentally just and so any dangerous illness, like cancer, must be a type of punishment for bad choices, because in a just world, bad things would not happen to good people.[199]
+Economic effect
+
+The total health care expenditure on cancer in the US was estimated to be $80.2 billion in 2015.[200] Even though cancer-related health care expenditure have increased in absolute terms during recent decades, the share of health expenditure devoted to cancer treatment has remained close to 5% between the 1960s and 2004.[201][202] A similar pattern has been observed in Europe where about 6% of all health care expenditure are spent on cancer treatment.[203] In addition to health care expenditure, cancer causes indirect costs in terms of productivity losses due to lost work days and premature death, as well as informal care. Indirect costs are typically estimated to exceed the health care costs of cancer.[204]
+Workplace
+
+In the United States, cancer is included as a protected condition by the Equal Employment Opportunity Commission (EEOC), mainly due to the potential for cancer having discriminating effects on workers.[205] Discrimination in the workplace could occur if an employer holds a false belief that a person with cancer is not capable of doing a job properly, and may ask for more sick leave than other employees. Employers may also make hiring or firing decisions based on misconceptions about cancer disabilities, if present. The EEOC provides interview guidelines for employers, as well as lists of possible solutions for assessing and accommodating employees with cancer.[205]
+Research
+Main article: Cancer research
+University of Florida Cancer Hospital
+
+Because cancer is a class of diseases,[206][207] it is unlikely that there will ever be a single "cure for cancer" any more than there will be a single treatment for all infectious diseases.[208] Angiogenesis inhibitors were once incorrectly thought to have potential as a "silver bullet" treatment applicable to many types of cancer.[209] Angiogenesis inhibitors and other cancer therapeutics are used in combination to reduce cancer morbidity and mortality.[210]
+
+Experimental cancer treatments are studied in clinical trials to compare the proposed treatment to the best existing treatment. Treatments that succeeded in one cancer type can be tested against other types.[211] Diagnostic tests are under development to better target the right therapies to the right patients, based on their individual biology.[212]
+
+Cancer research focuses on the following issues:
+
+    Agents (e.g. viruses) and events (e.g. mutations) that cause or facilitate genetic changes in cells destined to become cancer.
+    The precise nature of the genetic damage and the genes that are affected by it.
+    The consequences of those genetic changes on the biology of the cell, both in generating the defining properties of a cancer cell and in facilitating additional genetic events that lead to further progression of the cancer.
+
+The improved understanding of molecular biology and cellular biology due to cancer research has led to new treatments for cancer since US President Richard Nixon declared the "War on Cancer" in 1971. Since then, the country has spent over $200 billion on cancer research, including resources from public and private sectors.[213] The cancer death rate (adjusting for size and age of the population) declined by five percent between 1950 and 2005.[214]
+
+Competition for financial resources appears to have suppressed the creativity, cooperation, risk-taking and original thinking required to make fundamental discoveries, unduly favoring low-risk research into small incremental advancements over riskier, more innovative research. Other consequences of competition appear to be many studies with dramatic claims whose results cannot be replicated and perverse incentives that encourage grantee institutions to grow without making sufficient investments in their own faculty and facilities.[215][216][217][218]
+
+Virotherapy, which uses convert viruses, is being studied.
+Pregnancy
+
+Cancer affects approximately 1 in 1,000 pregnant women. The most common cancers found during pregnancy are the same as the most common cancers found in non-pregnant women during childbearing ages: breast cancer, cervical cancer, leukemia, lymphoma, melanoma, ovarian cancer and colorectal cancer.[219]
+
+Diagnosing a new cancer in a pregnant woman is difficult, in part because any symptoms are commonly assumed to be a normal discomfort associated with pregnancy. As a result, cancer is typically discovered at a somewhat later stage than average. Some imaging procedures, such as MRIs (magnetic resonance imaging), CT scans, ultrasounds and mammograms with fetal shielding are considered safe during pregnancy; some others, such as PET scans, are not.[219]
+
+Treatment is generally the same as for non-pregnant women. However, radiation and radioactive drugs are normally avoided during pregnancy, especially if the fetal dose might exceed 100 cGy. In some cases, some or all treatments are postponed until after birth if the cancer is diagnosed late in the pregnancy. Early deliveries are often used to advance the start of treatment. Surgery is generally safe, but pelvic surgeries during the first trimester may cause miscarriage. Some treatments, especially certain chemotherapy drugs given during the first trimester, increase the risk of birth defects and pregnancy loss (spontaneous abortions and stillbirths).[219]
+
+Elective abortions are not required and, for the most common forms and stages of cancer, do not improve the mother's survival. In a few instances, such as advanced uterine cancer, the pregnancy cannot be continued and in others, the patient may end the pregnancy so that she can begin aggressive chemotherapy.[219]
+
+Some treatments can interfere with the mother's ability to give birth vaginally or to breastfeed.[219] Cervical cancer may require birth by Caesarean section. Radiation to the breast reduces the ability of that breast to produce milk and increases the risk of mastitis. Also, when chemotherapy is given after birth, many of the drugs appear in breast milk, which could harm the baby.[219]
+Other animals
+
+Veterinary oncology, concentrating mainly on cats and dogs, is a growing specialty in wealthy countries and the major forms of human treatment such as surgery and radiotherapy may be offered. The most common types of cancer differ, but the cancer burden seems at least as high in pets as in humans. Animals, typically rodents, are often used in cancer research and studies of natural cancers in larger animals may benefit research into human cancer.[220]
+
+In non-humans, a few types of transmissible cancer have been described, wherein the cancer spreads between animals by transmission of the tumor cells themselves. This phenomenon is seen in dogs with Sticker's sarcoma (also known as canine transmissible venereal tumor), and in Tasmanian devils with devil facial tumour disease (DFTD).[221] 

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/reynadoerwald/Desktop/Honours/medical-chatbot/scripts/model.tflearn"
+all_model_checkpoint_paths: "/Users/reynadoerwald/Desktop/Honours/medical-chatbot/scripts/model.tflearn"
