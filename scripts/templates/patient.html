@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Patient Chatbot</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="chat.css">
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+      function moveWin()
+      {  
+        window.scroll(0,10000);
+        setTimeout('moveWin();',1000);
+      }
+    </script>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <style>
+  body {
+    position: relative; 
+  }
+  .affix {
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+  .navbar {
+    margin-bottom: 0px;
+  }
+
+  .affix ~ .container-fluid {
+   position: relative;
+   top: 0px;
+  }
+  </style>
+
+</head>
+<body onload="moveWin();" data-spy="scroll" data-target=".navbar" data-offset="50">
+
+	<nav class="navbar navbar-dark bg-dark" data-spy="affix">
+  <div class="container-fluid">
+        <a href="#" class="navbar-left"><img  height="60px" width="90px" src="static/maia.png"></a>
+      <a class="navbar-brand" href="#">MAIA for Patients</a>
+      </div>
+</nav>  
+  		
+  	</nav><br><br><br>
+  	<div class="container">
+	{% for message in MESSAGES["messages"] %}
+		{% if message.sender == 'bot'%}
+			<div class="alert alert-dark" role="alert">MAIA: {{message.message}}</div>
+		{% else %}
+			<div class="alert alert-primary" role="alert">USER: {{message.message}}</div>
+		{% endif %}
+  	{% endfor %}
+
+  	<form  action="/patientprocess" method="POST">
+  		<div class="form-group">
+    		<label for="exampleInputEmail1">Friend Chatbot</label>
+    		<input type="text" name="user_input" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Talk to my friend"><br>
+  			<button type="submit" class="btn btn-primary">Send</button>
+  		</div>
+	</form>
+  </div>
+
+
+	
+</body>
+</html>

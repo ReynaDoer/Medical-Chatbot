@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Patient Login</title>
+	<link rel="stylesheet" type="text/css" href="static/styles.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="chat.css">
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+<body class="align">
+	<nav class="navbar navbar-dark bg-dark">
+  		<a href="#" class="navbar-left"><img  height="60px" width="90px" src="static/maia.png"></a>
+    	<a class="navbar-brand" href="#">MAIA for Patients</a>
+  	</nav><br><br><br>
+	<div style="padding-top: -5%">
+		<img src="static/maia.png" class="logo" alt="logo">
+	</div>
+
+	<div class="container">
+		<form action="/patient" method="POST">
+			<div class="form-group">
+				<label for="exampleInputEmail1">To login enter your first and last name:</label>
+				<input type="text" name="patient_name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your name here..."><br>
+				<button type="submit" class="button button1">Proceed to MAIA</button>
+			</div>
+		</form>
+	</div>
+
+	
+
+</body>
+</html>

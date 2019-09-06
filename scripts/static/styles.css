@@ -1,0 +1,92 @@
+.align{
+	text-align: center;
+	padding: 0;
+}
+
+.logo{
+	width: 20%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.button {
+    background-color: #389EE3; 
+    border: none;
+    color: white;
+    
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #389EE3;
+}
+
+.button1:hover {
+    background-color: #389EE3;
+    color: white;
+}
+
+.formInput{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+h1 { 
+    color: #389EE3; 
+    font-family: 'Signika', sans-serif; 
+    font-size: 35px; 
+    font-weight: 300; 
+    line-height: 58px; 
+}
+
+h3 { 
+    color: red; 
+    font-family: 'Signika', sans-serif; 
+    font-size: 20px; 
+    font-weight: 300; 
+    line-height: 58px; 
+}
+
+.info{
+    font-style: normal;
+}
+
+
+body {
+    position: relative; 
+  }
+  .affix {
+    top:0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+  .navbar {
+    margin-bottom: 0px;
+  }
+
+  .affix ~ .container-fluid {
+   position: relative;
+   top: 50px;
+  }
